@@ -17,7 +17,7 @@ name="RUPIAH INDONESIA"
 desc="Rupiah Indonesia (Asset Code : RUPIAH) is tokenized currency for Indonesian Rupiah's Standardization (globally known as IDR or Rupiah) within Stellar Blockchain." 
 display_decimals=7 
 image="https://rupiah.top/logo/256x256.webp" 
-is_asset_anchored="true" 
+is_asset_anchored=true 
 anchor_asset_type="fiat" 
 anchor_asset="RUPIAH" 
 
