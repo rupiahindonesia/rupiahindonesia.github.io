@@ -1,28 +1,25 @@
 FEDERATION_SERVER="https://api.stellar.org/federation" 
 
-ACCOUNTS=["",
-""
+ACCOUNTS=["GDQQQL5MC5LNBUV3RRM5Z3NKVKNNL7LOGO4MX6KEFK525OLSD6RUPIAH", 
+"GD4L6RS3IOC7N43IB3NUDMPSR7SDIOFBIKRTBE67AYT2DU7KWFRUPIAH"
 ] 
 
 [DOCUMENTATION]
-ORG_NAME="" 
-ORG_URL="" 
-ORG_LOGO="" 
+ORG_NAME="RUPIAH INDONESIA" 
+ORG_URL="https://rupiah.top" 
+ORG_LOGO="https://rupiah.top/logo/720x720.webp" 
 
 [[CURRENCIES]] 
-code="" 
-issuer="" 
+code="RUPIAH" 
+issuer="GDQQQL5MC5LNBUV3RRM5Z3NKVKNNL7LOGO4MX6KEFK525OLSD6RUPIAH" 
 status="live" 
-name="" 
-desc="" 
+name="RUPIAH INDONESIA" 
+desc="Rupiah Indonesia (Asset Code : RUPIAH) is tokenized currency for Indonesian Rupiah's Standardization (globally known as IDR or Rupiah) within Stellar Blockchain." 
 display_decimals=7 
-image="" 
-conditions="If you want to follow Initial Public Offering (IPO) of Indonesian stocks via Stellar blockchain, then buy this token to generate profits for your own." 
+image="https://rupiah.top/logo/256x256.webp" 
 is_asset_anchored="true" 
-anchor_asset_type="stock" 
-anchor_asset="4 digits stock or 3-12 digits fiat code" 
-redemption_instructions="Wait until IPO running at least 7 working days (please see the schedules). If you see RUPIAH or XLM in BUY positions already standby (inside SDEX), it means you ready to withdraw your stocks become cash. We also guide you the routes to withdraw and convert your tokens become real money." 
-
+anchor_asset_type="fiat" 
+anchor_asset="RUPIAH" 
 
 
 
