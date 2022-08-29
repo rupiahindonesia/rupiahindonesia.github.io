@@ -7,7 +7,7 @@ ACCOUNTS=["GDQQQL5MC5LNBUV3RRM5Z3NKVKNNL7LOGO4MX6KEFK525OLSD6RUPIAH",
 [DOCUMENTATION]
 ORG_NAME="RUPIAH INDONESIA" 
 ORG_URL="https://rupiah.top" 
-ORG_LOGO="https://rupiah.top/logo/720x720.webp" 
+ORG_LOGO="https://rupiah.top/logo.webp" 
 
 [[CURRENCIES]] 
 code="RUPIAH" 
@@ -16,12 +16,7 @@ status="live"
 name="RUPIAH INDONESIA" 
 desc="Rupiah Indonesia (Asset Code : RUPIAH) is tokenized currency for Indonesian Rupiah's Standardization (globally known as IDR or Rupiah) within Stellar Blockchain." 
 display_decimals=2 
-image="https://rupiah.top/logo/256x256.webp" 
+image="https://rupiah.top/logo.webp" 
 is_asset_anchored=true 
 anchor_asset_type="fiat" 
 anchor_asset="RUPIAH" 
-
-
-
-
-
