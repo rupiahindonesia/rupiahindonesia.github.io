@@ -5,9 +5,8 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://rupiah.top</loc>
+  <loc>https://rupiahindonesia.github.io</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
   <lastmod>2022-08-25T00:00:00+00:00</lastmod>
 </url>
 
