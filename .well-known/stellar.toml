@@ -6,8 +6,8 @@ ACCOUNTS=["GDQQQL5MC5LNBUV3RRM5Z3NKVKNNL7LOGO4MX6KEFK525OLSD6RUPIAH",
 
 [DOCUMENTATION]
 ORG_NAME="RUPIAH INDONESIA" 
-ORG_URL="https://rupiah.top" 
-ORG_LOGO="https://rupiah.top/logo.webp" 
+ORG_URL="https://rupiahindonesia.com" 
+ORG_LOGO="https://rupiahindonesia.com/logo.webp" 
 
 [[CURRENCIES]] 
 code="RUPIAH" 
